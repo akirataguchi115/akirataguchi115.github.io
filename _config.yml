@@ -1,24 +1,18 @@
-collections:
-  authors:
-    output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+title: Blog of Akira Taguchi
+email: akirahattivatti@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a hacker's blog. The author is Akira Taguchi. The posts are meant to act as troubleshooting help for anyone coming across this blog via keywords.
+baseurl: ""
+url: "https://akirataguchi.github.io"
+twitter_username: akiratviit
+github_username:  akirataguchi115
 
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
