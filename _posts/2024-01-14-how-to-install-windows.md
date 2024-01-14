@@ -6,7 +6,7 @@ comments: true
 ---
 Hello everyone. Today I will show you how to install Windows. Unironically. Let me know if you had any TILs or if you think I missed something. This is how I setup my Windows.
 
-Windows machines need to be cleaned every now and then due to how it's built, unlike GNU. My reason today was not however a routine formatting of the C drive. Finland's worst [bofferer](https://en.wikipedia.org/wiki/Foam_weapon/), my friend just bought a 2tb nvme m.2 ssd. My setup so far has been os on nvm2, games and software on sata ssd and important/large files on hdd. I got tempted by satan and bought a pcie gen4 nvme 2tb ssd. Because nvme m.2 uses four lanes of pcie i just got a speed boost of around 2x so my nvme is around 8gbps fast. The amount of hentai i will transfer from my pc to my oculust quest 2 will be immaculate.
+Windows machines need to be cleaned every now and then due to how it's built, unlike GNU. My reason today was not however a routine formatting of the C drive. Finland's worst [bofferer](https://en.wikipedia.org/wiki/Foam_weapon), my friend just bought a 2tb nvme m.2 ssd. My setup so far has been os on nvm2, games and software on sata ssd and important/large files on hdd. I got tempted by satan and bought a pcie gen4 nvme 2tb ssd. Because nvme m.2 uses four lanes of pcie i just got a speed boost of around 2x so my nvme is around 8gbps fast. The amount of hentai i will transfer from my pc to my oculust quest 2 will be immaculate.
 
 After making my usb stick bootable with the help of windows installation assistant I started installing it. Apparently Windows N and KN versions mean (maybe) "No multimedia" and "Korea No multimedia".
 
